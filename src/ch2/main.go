@@ -16,6 +16,4 @@ func main() {
 		}
 		conn.Close()
 	}
-	// ports := make(chan int, 100)
-	// fmt.Println(&ports)	
 }
